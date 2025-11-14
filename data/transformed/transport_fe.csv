@@ -1,4 +1,4 @@
-,trip_distance_km,rain_mm,congestion_index,trip_duration_min,time_block_maniana,time_block_noche,time_block_tarde,hour_sin,hour_cos,is_weekend,distance_congestion,rain_binary
+,trip_distance_km,rain_mm,congestion_index,trip_duration_min,time_maniana,time_noche,time_tarde,hour_sin,hour_cos,is_weekend,distance_congestion,rain_binary
 0,1.4078042699305773,0.8062933268491808,0.6344133704828065,18.974884252932828,False,True,False,-1.0,-1.8369701987210297e-16,1,0.8931298518667443,1
 1,9.030364292752562,0.0926151294712547,0.6623599527052013,61.87592631364211,True,False,False,0.9659258262890683,-0.25881904510252063,0,5.981351665858326,1
 2,3.950237080636348,1.3074973265604724,0.358371754563954,24.83660199700539,True,False,False,1.0,6.123233995736766e-17,0,1.4156533935312394,1
